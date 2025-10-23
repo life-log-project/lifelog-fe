@@ -1,2 +1,2 @@
-# life-log-fe
-일상 기록 프로젝트 (프론트)
+# lifelog-fe
+Next.js 기반의 웹 프론트엔드
